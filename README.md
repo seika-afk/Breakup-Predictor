@@ -1,4 +1,4 @@
-# 💔 Relationship Breakup Prediction using Machine Learning
+#  Relationship Breakup Prediction using Machine Learning
 
 This project aims to analyze relationship-related text and predict whether a breakup is likely to happen. It's built using classic machine learning techniques and demonstrates end-to-end NLP processing.
 
